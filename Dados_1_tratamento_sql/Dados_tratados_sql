@@ -1,0 +1,2 @@
+Os arquivis foram tratados com MySqlq, onde foram feitos Primary Keys, foreign key, querys de tratamento e exclusão de dados nulos, dados não formatados, traduções
+do projeto, bem como os tratamentos inciais, junções de tabelas e exportação para CSV e XML afim de concluir tratamentos com Python e elaborar modelos de Machine Learning.
