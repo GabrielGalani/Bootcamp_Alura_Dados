@@ -7,7 +7,7 @@ Portanto, é solicitada uma solução para que seja possível diminuir as perdas
 Como cientista de dados, é sugerido um estudo das informações financeiras e de solicitação de empréstimo para encontrar padrões que possam indicar uma 
 possível inadimplência.
 
-Desse modo, foi solicito um conjunto de dados que contenha as informações de clientes, da solicitação de empréstimo, do histórico de crédito, bem como se a pessoa 
+Desse modo, foi solicitado um conjunto de dados que contenha as informações de clientes, da solicitação de empréstimo, do histórico de crédito, bem como se a pessoa 
 mutuaria é inadimplente ou não. Com esses dados, é possível modelar um classificador capaz de encontrar potenciais clientes inadimplentes e solucionar 
 o problema do Alura Cash.
 
@@ -34,4 +34,6 @@ o problema do Alura Cash.
 | sklearn | under_sampling | 
 | sklearn | over_sampling  | 
 | pickle |  |
+| fastapi | |
+| uvicorn | |
 
